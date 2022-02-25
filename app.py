@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 
 
 # Titre et sous-titre
-st.title("Atelier StreamLit - Docker M2 SISE")
+st.title("Atelier StreamLit - Docker - Heroku M2 SISE")
 st.subheader("Exploration des données des résultats des étudiants de deux écoles portuguaise")
 
 uploaded_file = st.file_uploader("Chargement du fichier")
